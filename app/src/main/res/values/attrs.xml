@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="ColorBackgroundMain" format="reference|color" />
+    <attr name="ColorBackgroundSecond" format="reference|color" />
+    <attr name="ColorAppBar" format="reference|color" />
+    <attr name="ColorItem" format="reference|color" />
+
+</resources>
